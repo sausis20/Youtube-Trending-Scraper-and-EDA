@@ -23,4 +23,4 @@ The Exploratory Data Analysis can be found in 'data cleaning and EDA.ipynb' file
 - The category that has the largest number of trending videos is 'News & Politics' with 395 videos, followed by 'Entertainment' with 388 videos.
 
 ## License
-This project is licensed under the BSD 2-Clause License - see the LICENSE.md file for details
+This project is licensed under the BSD 2-Clause License - see the LICENSE file for details
