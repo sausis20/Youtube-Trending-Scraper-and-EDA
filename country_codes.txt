@@ -1,0 +1,12 @@
+LT
+LV
+EE
+PL
+FI
+SE
+NO
+US
+CA
+GB
+DE
+FR
