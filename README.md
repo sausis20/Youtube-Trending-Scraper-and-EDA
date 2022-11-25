@@ -8,6 +8,9 @@ The script used 12 country codes for which it collected trending video data. The
 ## Scraping results
 The script collected data between 2022-07-22 and 2022-11-03, and contains data for a total of 76 unique dates. 
 
+## Data cleaning and EDA
+After the data was scraped, it was then combined into a single dataset using the script in 'combine csv data.ipynb'. Additionally, as every country has different video category codes (i.e. 2 - Autos & Vehicles, 10	- Music, 17 - Sports, etc), categories for LT, LV and EE were additionally scraped and added to the dataset. 
+
 The Exploratory Data Analysis can be found in 'data cleaning and EDA.ipynb' file. 
 
 ## EDA conclusions
